@@ -1,1 +1,2 @@
 # Boston_MLearning_Project
+This machine learning project utilizes the Boston dataset to build and train a predictive model for housing prices in the Boston area. Using Python and various machine learning techniques, we aim to provide accurate predictions of housing prices based on a variety of factors such as crime rate, proximity to highways, and number of rooms. The project showcases our ability to implement data cleaning, feature engineering, and model selection to achieve optimal performance.
